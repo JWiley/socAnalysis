@@ -14,7 +14,7 @@ A character string indicating the type of the variable,
   either \dQuote{c} for continuous,
   \dQuote{p} for ordered categorical,
   \dQuote{d} for unordered categorical,
-  \dquote{cannot be classified} for variables that do not fit in.
+  \dQuote{cannot be classified} for variables that do not fit in.
 }
 \description{
 Check the type of a variable

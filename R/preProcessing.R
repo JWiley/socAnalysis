@@ -5,7 +5,7 @@
 #'   either \dQuote{c} for continuous,
 #'   \dQuote{p} for ordered categorical,
 #'   \dQuote{d} for unordered categorical,
-#'   \dquote{cannot be classified} for variables that do not fit in.
+#'   \dQuote{cannot be classified} for variables that do not fit in.
 #' @export
 #' @examples
 #' varType(mtcars$mpg)
