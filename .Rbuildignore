@@ -1,0 +1,5 @@
+.gitignore
+.git
+desktop.ini
+^.*\.Rproj$
+^\.Rproj\.user$
