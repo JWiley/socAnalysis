@@ -1,3 +1,4 @@
+
 #' Check the type of a variable
 #'
 #' @param x A variable
